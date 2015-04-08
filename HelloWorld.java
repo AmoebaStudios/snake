@@ -4,3 +4,4 @@ public class HelloWorld {
 		System.out.println("suk an fagit u fagit");
 	}
 }
+faggot
